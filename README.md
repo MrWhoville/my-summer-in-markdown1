@@ -1,27 +1,13 @@
-# my-summer-in-markdown1
+# my-summer-in-markdown
 
 ## Introduction
-
+ Hello 🖐️. My name is Christopher Hernandez. I am currently a 10th grader at Chatsworth High School as of the time of writing this (8/14/24). My life is not very interesting, to say the least. I mainly just do school, play video games in my free time while listening to music. Bland, yes, but i enjoy it so go figure.
 ## Favorite Book or Movie
-
+I dont have a favorite book, but i have favorite book series, which would be the Sonic The Hedgehog comic series (IDW). I would love to read the archie series but i dont even think htye have to og comics at this point, since its like 20 years old. Anyways, my favorite movie would have to be Ratatouille.
 ## Goals for the School Year
-
+My goals for this current school year would have to be to improve my work habits. I'm going to be honest, I was slacking off last year quite a bit. My grades werent bad, but they also werent too good (to my expectations). I would like to change those habits for the better and i dont really have a choice, as my classes are getting harder and more stricter, so if i dont change, i am done for, wasted, zip, nada. Probbaly another goal i would have for mainly the rest of the time im here is to hopefully make a friend, a **REAL** friend. It has been a looonnnggg time since i had one and ive gotten used to being alone and having one would be nice or needed, as much as i say i dont want one.
 ## Summer Playlist
+My music taste has expanded quite a bit this summer. I explored the classic sonic games soundtracks and they are good. Some tracks are actual beauty. For example, Qaurtz Quandrant (JP) is really good aswell as the good and bad futures of Stardust Speedway (US). There are other favorites but those two are the main ones. Soon enough, i will get sick of them from listening to them a whole lot. Next would be a Micheal Jackson faze i went through and to follow that would be some songs from either the late 70's to the late 90's. I forgot to be honest, but they are old. Sometimes i wonder how would the world be without these hits? Probably boring, so im grateful it happened. For a very very **VERY** brief period, i listened to some phonk music and its good for when your in the moment, in that groove. I also added more tracks to my playlist conssiting of Tohou music. Being honest, ive got no idea what the story of Tohou is, i just like the music as its instrumental (for the most part). That is really all for the entirety of summer. Music is a huge part of my well-being; without it, i would not be the same person. 
+## Favorite Summer Food
+My favorite food for summer and in general would have to be chipotle pasta with ground turkey. It is very good, mainly for the reason that i dont need to use parmesean to make it good, as its real good on its own unlike regular or alfredo pasta, where i need the parm to enjoy them.
 
-## Topic 5
-
-*ITALIC*
-
-**BOLD**
-
-<u>UNDERLINED<u>
-
--Thing 1
-
--Thing 2
-
--Thing 3
-
-[link to website]()
-
-![picture of mango]()
